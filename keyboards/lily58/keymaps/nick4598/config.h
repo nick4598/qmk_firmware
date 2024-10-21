@@ -20,8 +20,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
-#define MASTER_LEFT
-
 // Configure the global tapping term (default: 200ms)
 #define TAPPING_TERM 200
 
